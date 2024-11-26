@@ -1,4 +1,4 @@
-# fenyxs-xmb-web
+# Fenyx's XMB Web
 
 Protótipo imitando o XMB (XrossMediaBar) do PS3 via HTML/CSS/JS puro
 
